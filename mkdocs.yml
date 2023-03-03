@@ -1,0 +1,18 @@
+site_name: My MkDocs Site
+site_description: This is my MkDocs site.
+
+theme:
+  name: material
+  custom_dir: overrides
+  palette:
+    primary: "blue"
+    accent: "light blue"
+
+markdown_extensions:
+  - toc:
+      permalink: true
+      permalink_class: toc-link
+      permalink_title: "Permalink"
+
+plugins:
+  - search
