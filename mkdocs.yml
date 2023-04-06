@@ -5,7 +5,7 @@ repo_name: squidfunk/mkdocs-material
 repo_url: https://github.com/squidfunk/mkdocs-material
 theme:
   name: material
-  custom_dir: overrides
+  docs_dir: /var/www/mkdocs/site/Markdown
   edit_uri: edit/main/docs/
   features:
     - announce.dismiss
