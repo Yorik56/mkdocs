@@ -3,6 +3,7 @@ site_description: This is my MkDocs site.
 # Repository
 repo_name: squidfunk/mkdocs-material
 repo_url: https://github.com/squidfunk/mkdocs-material
+docs_dir: docs/Markdown
 theme:
   name: material
   edit_uri: edit/main/docs/
