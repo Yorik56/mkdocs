@@ -3,9 +3,9 @@ site_description: This is my MkDocs site.
 # Repository
 repo_name: squidfunk/mkdocs-material
 repo_url: https://github.com/squidfunk/mkdocs-material
+docs_dir: /var/www/mkdocs/site/Markdown
 theme:
   name: material
-  custom_dir: /var/www/mkdocs/site/Markdown
   edit_uri: edit/main/docs/
   features:
     - announce.dismiss
