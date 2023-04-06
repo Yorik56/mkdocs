@@ -6,6 +6,6 @@ services:
     ports:
       - "8000:8000"
     volumes:
-      - ${PWD}:/var/www/mkdocs/site/Markdown/docs
+      - ${PWD}:/var/www/mkdocs/site/Markdown
       - "./overrides:/docs/overrides"
 
