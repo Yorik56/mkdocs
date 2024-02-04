@@ -1,6 +1,4 @@
-@media screen {
-    [data-md-color-scheme="slate"][data-md-color-primary="black"], [data-md-color-scheme="slate"][data-md-color-primary="blue-grey"], [data-md-color-scheme="slate"][data-md-color-primary="grey"], [data-md-color-scheme="slate"][data-md-color-primary="white"]
-    {
-        --md-typeset-a-color: #8cde5e;
-    }
+[data-md-color-scheme="salte"] {
+    --md-primary-fg-color: #8cde5e;
+    --md-typeset-a-color: #8cde5e;
 }
