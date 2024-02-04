@@ -32,10 +32,6 @@ theme:
     - toc.follow
     # - toc.integrate
   palette:
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: material/link
-        name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: indigo
