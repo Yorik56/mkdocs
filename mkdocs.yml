@@ -32,7 +32,6 @@ theme:
     - toc.follow
     # - toc.integrate
   palette:
-    - accent: "#8cde5e"
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -41,6 +40,7 @@ theme:
         name: Switch to dark mode
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
+      accent: "#8cde5e"
       scheme: slate
       toggle:
         icon: material/brightness-4
