@@ -40,7 +40,6 @@ theme:
         name: Switch to dark mode
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
-      accent: "#8cde5e"
       scheme: slate
       toggle:
         icon: material/brightness-4
