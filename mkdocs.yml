@@ -8,7 +8,7 @@ theme:
   name: material
   edit_uri: edit/main/docs/
   extra_css:
-    - stylesheets/extra.css
+    - docs/stylesheets/extra.css
   features:
     - announce.dismiss
     - content.action.edit
