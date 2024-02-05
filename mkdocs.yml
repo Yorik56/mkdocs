@@ -1,8 +1,8 @@
 site_name: My MkDocs Site
 site_description: This is my MkDocs site.
 # Repository
-repo_name: squidfunk/mkdocs-material
-repo_url: https://github.com/squidfunk/mkdocs-material
+repo_name: Yorik56/Markdown
+repo_url: https://github.com/Yorik56/Markdown
 docs_dir: Markdown
 extra_css:
   - stylesheets/extra.css
