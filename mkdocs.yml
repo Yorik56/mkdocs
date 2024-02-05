@@ -43,6 +43,7 @@ theme:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: slate)"
       primary: green
+      accent: green
       scheme: slate
       toggle:
         icon: material/lightbulb-outline
