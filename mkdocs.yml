@@ -38,15 +38,13 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
+        accent: green
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
-      accent: "#8cde5e"
       scheme: slate
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-  extra_css:
-    - stylesheets/extra.css
 markdown_extensions:
   - abbr
   - admonition
