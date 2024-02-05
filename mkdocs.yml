@@ -4,11 +4,11 @@ site_description: This is my MkDocs site.
 repo_name: squidfunk/mkdocs-material
 repo_url: https://github.com/squidfunk/mkdocs-material
 docs_dir: Markdown
+extra_css:
+  - stylesheets/extra.css
 theme:
   name: material
   edit_uri: edit/main/docs/
-  extra_css:
-    - stylesheets/extra.css
   features:
     - announce.dismiss
     - content.action.edit
