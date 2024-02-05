@@ -32,6 +32,7 @@ theme:
     - toc.follow
     # - toc.integrate
   palette:
+    - accent: "#8cde5e"
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
