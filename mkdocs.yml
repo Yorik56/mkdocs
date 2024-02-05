@@ -7,7 +7,7 @@ extra_css:
   - stylesheets/extra.css
 theme:
   name: material
-  edit_uri: https://raw.githubusercontent.com/Yorik56/Markdown/main
+  edit_uri: blob/main
   features:
     - announce.dismiss
     - content.action.edit
