@@ -1,14 +1,13 @@
 site_name: My MkDocs Site
 site_description: This is my MkDocs site.
 # Repository
-repo_name: Yorik56/Markdown
-repo_url: https://raw.githubusercontent.com/Yorik56/Markdown/main
+repo_url: https://github.com/Yorik56/Markdown
 docs_dir: Markdown
 extra_css:
   - stylesheets/extra.css
 theme:
   name: material
-  edit_uri: edit/main/docs/
+  edit_uri: https://raw.githubusercontent.com/Yorik56/Markdown/main
   features:
     - announce.dismiss
     - content.action.edit
