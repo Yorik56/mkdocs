@@ -41,8 +41,18 @@ theme:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: green
-      accent: green
+      primary: '#020204'   # Couleur de fond sombre
+      accent: '#22b455'   # Couleur d'accentuation (vert)
+      background: '#020204'  # Couleur de fond générale sombre
+      code: '#80ce87'   # Couleur du code source
+      text: '#80ce87'   # Couleur du texte
+      header: '#204829'   # Couleur de l'en-tête
+      link: '#92e5a1'   # Couleur des liens
+      link_hover: '#80ce87'   # Couleur des liens au survol
+      divider: '#80ce87'   # Couleur des diviseurs/séparateurs
+      border: '#80ce87'   # Couleur des bordures
+      background_text: '#80ce87'   # Couleur du texte sur le fond sombre
+      background_code: '#020204'
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
