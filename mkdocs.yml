@@ -7,6 +7,8 @@ docs_dir: Markdown
 theme:
   name: material
   edit_uri: edit/main/docs/
+  extra_css:
+    - stylesheets/extra.css
   features:
     - announce.dismiss
     - content.action.edit
@@ -41,22 +43,9 @@ theme:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: 'black'   # Couleur de fond sombre
-      accent: 'green'   # Couleur d'accentuation (vert)
-      background: 'black'  # Couleur de fond générale sombre
-      code: 'lightgreen'   # Couleur du code source
-      text: 'lightgreen'   # Couleur du texte
-      header: 'darkgreen'   # Couleur de l'en-tête
-      link: 'lightcyan'   # Couleur des liens
-      link_hover: 'lightgreen'   # Couleur des liens au survol
-      divider: 'lightgreen'   # Couleur des diviseurs/séparateurs
-      border: 'lightgreen'   # Couleur des bordures
-      background_text: 'lightgreen'   # Couleur du texte sur le fond sombre
-      background_code: 'black'   # Couleur du texte dans les blocs de code
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-
 markdown_extensions:
   - abbr
   - admonition
