@@ -2,12 +2,12 @@ site_name: My MkDocs Site
 site_description: This is my MkDocs site.
 # Repository
 repo_url: https://github.com/Yorik56/Markdown
+edit_uri: blob/main
 docs_dir: Markdown
 extra_css:
   - stylesheets/extra.css
 theme:
   name: material
-  edit_uri: blob/main
   features:
     - announce.dismiss
     - content.action.edit
